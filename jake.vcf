@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.6//EN
+N:Martin;Jake;;;
+FN:Jake Martin
+ORG:KOPILOT.ID;
+EMAIL;type=INTERNET;type=WORK;type=pref:jake@kopilot.id
+TEL;type=CELL;type=VOICE;type=pref:(415) 770-2116
+X-SOCIALPROFILE;type=Instagram;x-user=kopilot.id.official :x-apple:kopilot.id.official%20
+item1.URL;type=pref:www.kopilot.id
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

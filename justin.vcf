@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.6//EN
+N:Bradshaw;Justin;;;
+FN:Justin Bradshaw
+ORG:KOPILOT.ID;
+EMAIL;type=INTERNET;type=pref:justin@kopilot.id
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:(970) 390-6621
+X-SOCIALPROFILE;type=Instagram;x-user=kopilot.id.official:x-apple:kopilot.id.official
+item1.URL;type=pref:www.kopilot.id
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
